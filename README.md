@@ -18,6 +18,8 @@ Step 10: Repeat from Step 8 continuously.
 Step 11: Stop (program loop runs indefinitely).
 
 ## Program
+```
+
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -204,6 +206,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
+```
 ## OUTPUT
 <img width="576" height="581" alt="image" src="https://github.com/user-attachments/assets/d0851e6c-3912-48e8-b52f-adafd0b2498b" />
 
